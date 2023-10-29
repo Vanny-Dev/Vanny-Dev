@@ -1,9 +1,9 @@
 # 💫 About Me:
--🔭 I’m currently working on ![Online School Document Management Systems (OSDMS)](https://github.com/Vanny-Dev/OSDMS/)
--🌱 I’m currently learning Frameworks and different languages
--👯 I’m looking to collaborate on ![Online School Document Management Systems (OSDMS)](https://github.com/Vanny-Dev/OSDMS/)
--🤝 I’m looking for help with ![Online School Document Management Systems (OSDMS)](https://github.com/Vanny-Dev/OSDMS/)
--💬 Ask me about Nodejs, APIs<br><br>📫 How to reach me jovannydeleon2906@gmail.com
+-🔭 I’m currently working on ![Online School Document Management Systems (OSDMS)](https://github.com/Vanny-Dev/OSDMS/)<br>
+-🌱 I’m currently learning Frameworks and different languages<br>
+-👯 I’m looking to collaborate on ![Online School Document Management Systems (OSDMS)](https://github.com/Vanny-Dev/OSDMS/)<br>
+-🤝 I’m looking for help with ![Online School Document Management Systems (OSDMS)](https://github.com/Vanny-Dev/OSDMS/)<br>
+-💬 Ask me about Nodejs, APIs<br><br>📫 How to reach me jovannydeleon2906@gmail.com<br>
 -⚡ Fun fact Copy codes but change the variable names
 
 
