@@ -1,4 +1,4 @@
-###### 🧑💻 I am a passionate learner and aspiring to be Fullstack Developer
+# 🧑💻 I am a passionate learner and aspiring to be Fullstack Developer
 # 💫 About Me:
 -🔭 I’m currently working on [Online School Document Management Systems (OSDMS)](https://github.com/Vanny-Dev/OSDMS/)<br><br>
 -🌱 I’m currently learning Frameworks and different languages<br><br>
