@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -53,7 +53,7 @@
 </script>
 
 </body>
-</html>
+</html>```
 
 ## 🧑💻 I am a passionate learner and aspiring to be Fullstack Developer
 # 💫 About Me:
