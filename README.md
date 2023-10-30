@@ -1,4 +1,4 @@
-![vanny](https://github.com/Vanny-Dev/Vanny-Dev/assets/101568416/4459b803-c44f-4214-8e6e-59e825e0493e)
+![ezgif com-crop](https://github.com/Vanny-Dev/Vanny-Dev/assets/101568416/cb905426-c57c-4157-8099-5c6150888192)
 
 ## 🧑💻 I am a passionate learner and aspiring to be Fullstack Developer
 # 💫 About Me:
