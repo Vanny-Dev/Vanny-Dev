@@ -1,9 +1,9 @@
-<div class="wrapper">
+![](<div class="wrapper">
             <span><span class="j">J</span>OVANNY 
             <span class="j">D</span>E
             <span class="j">L</span>EON,<br> 
             I'm <span class="multiText"></span></span>
-        </div>
+        </div>)
  
     <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
     <script>
