@@ -1,3 +1,27 @@
+<div class="wrapper">
+            <span><span class="j">J</span>OVANNY 
+            <span class="j">D</span>E
+            <span class="j">L</span>EON,<br> 
+            I'm <span class="multiText"></span></span>
+        </div>
+ 
+    <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.12"></script>
+    <script>
+        var typingEffect = new Typed(".multiText", {
+            strings : ["coder", "web developer", "facebook chat developer", "discord bot developer"],
+            loop : true,
+            typeSpeed : 100,
+            backSpeed : 80,
+            startDelay : 1000,
+            backDelay : 1500
+        })
+        
+        //let typingSound = new Audio("0828.mp3")
+        //typingSound.loop = true;
+        //typingSound.play();
+        
+    </script>
+
 ## 🧑💻 I am a passionate learner and aspiring to be Fullstack Developer
 # 💫 About Me:
 -🔭 I’m currently working on [Online School Document Management Systems (OSDMS)](https://github.com/Vanny-Dev/OSDMS/)<br><br>
