@@ -37,8 +37,8 @@ motto: "Code is poetry written for machines to understand"
 <div align="center">
 
 <!-- Advanced GitHub Stats with Animation -->
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yourusername&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vanny-Dev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D8FF&icon_color=00D8FF&text_color=FFFFFF"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vanny-Dev&layout=compact&langs_count=8&theme=algolia&hide_border=true&bg_color=0D1117&title_color=00D8FF&text_color=FFFFFF"/>
 
 </div>
 
@@ -119,7 +119,7 @@ motto: "Code is poetry written for machines to understand"
 <div align="center">
 
 <!-- Complex GitHub Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FFFFFF&area_color=00D8FF&area=true&hide_border=true&theme=react-dark" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vanny-Dev&custom_title=Contribution%20Graph&bg_color=0D1117&color=00D8FF&line=00D8FF&point=FFFFFF&area_color=00D8FF&area=true&hide_border=true&theme=react-dark" width="100%"/>
 
 </div>
 
@@ -129,13 +129,13 @@ motto: "Code is poetry written for machines to understand"
 <br>
 
 <!-- Advanced Metrics -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=dark&background=0D1117&stroke=00D8FF&ring=00D8FF&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D8FF&sideLabels=00D8FF&dates=FFFFFF&hide_border=true" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=github_dark&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Vanny-Dev&theme=dark&background=0D1117&stroke=00D8FF&ring=00D8FF&fire=FF6B35&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00D8FF&sideLabels=00D8FF&dates=FFFFFF&hide_border=true" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vanny-Dev&theme=github_dark&hide_border=true" width="49%" />
 
 <br><br>
 
 <!-- Trophies Animation -->
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Vanny-Dev&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" width="100%" />
 
 </details>
 </div>
@@ -144,17 +144,17 @@ motto: "Code is poetry written for machines to understand"
 
 ## 🚀 Featured Projects - Digital Masterpieces
 
-<div align="center">
+## <div align="center">
 
-<!-- Project Cards with Advanced Styling -->
-<a href="https://github.com/yourusername/project1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=algolia&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/yourusername/project2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=algolia&hide_border=true&bg_color=0D1117" />
-</a>
+## <!-- Project Cards with Advanced Styling -->
+## <a href="https://github.com/yourusername/project1">
+##  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=algolia&hide_border=true&bg_color=0D1117" />
+## </a>
+## <a href="https://github.com/yourusername/project2">
+##   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=algolia&hide_border=true&bg_color=0D1117" />
+## </a>
 
-</div>
+## </div>
 
 ### 💼 Project Showcase
 
