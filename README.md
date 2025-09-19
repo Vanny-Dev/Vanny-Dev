@@ -149,11 +149,11 @@ const developer = {
 <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A" />
 </a>
 
-<a href="mailto:your.email@gmail.com" target="_blank">
+<a href="mailto:jovannydeleon2906@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
 </a>
 
-<a href="https://yourportfolio.com" target="_blank">
+<a href="https://know-about-vanny.vercel.app" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white&labelColor=FF5722" />
 </a>
 
@@ -182,7 +182,7 @@ const developer = {
 
 ### 📊 Contribution Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=rogue&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ffc107&point=ffffff" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vanny-Dev&theme=rogue&hide_border=true&bg_color=0d1117&color=ff6b6b&line=ffc107&point=ffffff" />
 
 </div>
 
@@ -191,16 +191,12 @@ const developer = {
 <!-- Animated Footer -->
 <div align="center">
 
-### 🎵 Currently Jamming To
-
-[![Spotify](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO?si=b42bdd9248894b04)](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO?si=b42bdd9248894b04)
-
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 **✨ "Code is poetry, and every bug is just a plot twist!" ✨**
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=ff6b6b&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=Vanny-Dev&style=for-the-badge&color=ff6b6b&labelColor=0d1117" />
 
 </div>
