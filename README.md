@@ -109,7 +109,7 @@ const developer = {
     
 <!-- Project Cards with Animations -->
 <a href="https://github.com/Vanny-Dev/confession">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanny-Dev&repo=confession&theme=radical&hide_border=true&bg_color=0d1117" />
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanny-Dev&repo=username&theme=radical&hide_border=true&bg_color=0d1117" />
 </a>
 <a href="https://github.com/Vanny-Dev/Student-QR-Generator">
     <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanny-Dev&repo=Student-QR-Generator&theme=radical&hide_border=true&bg_color=0d1117" />
