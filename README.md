@@ -68,7 +68,7 @@ const developer = {
 
 <table>
 <tr>
-<td width="100%" valign="top>
+<td width="100%" height="30%" valign="top>
     
 ### 📈 GitHub Analytics
 
