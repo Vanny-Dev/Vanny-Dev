@@ -38,7 +38,7 @@ const developer = {
 
 📚 **Learning:** Web Development & Cyber Security
 
-⚡ **Superpower:** Turning coffee into code
+⚡ **Superpower:** Her gaze :>
 
 </td>
 <td width="50%" valign="top">
