@@ -32,9 +32,12 @@ const developer = {
 };
 ```
 
-🎮 **Current Quest:** Building scalable web apps  
+🎮 **Current Quest:** Building scalable web apps 
+
 🌍 **Location:** Naga City, Philippines 
+
 📚 **Learning:** Web Development & Cyber Security
+
 ⚡ **Superpower:** Turning coffee into code
 
 </td>
