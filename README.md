@@ -63,33 +63,28 @@ const developer = {
 </div>
 
 </td>
+
+<td width="50%" valign="top>
+    
+### 📈 GitHub Analytics
+
+<div align="center">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Vanny-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ffc107&text_color=ffffff" />        
+</div>
+
+</td>
+
+<td width="50%" valign="top>
+
+<div align="center">        
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Vanny-Dev&theme=radical&hide_border=true&background=0D1117&stroke=ff6b6b&ring=ffc107&fire=ff6b6b&currStreakLabel=ffffff" />        
+</div>
+    
+</td>
+
 </tr>
 </table>
 
-<table>
-<tr>
-<td width="50%" valign="top>
-    
-## 📈 GitHub Analytics
-
-<div align="center">
-            
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Vanny-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ffc107&text_color=ffffff" />
-            
-</div>
-    
-</td>
-<td width="50%" valign="top>
-
-<div align="center">
-            
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Vanny-Dev&theme=radical&hide_border=true&background=0D1117&stroke=ff6b6b&ring=ffc107&fire=ff6b6b&currStreakLabel=ffffff" />
-            
-</div>
-    
-</td>
-</tr>    
-</table>
 ---
 
 ## 🎨 Featured Projects | 🏆 Achievements | 🤝 Let's Connect
