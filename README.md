@@ -61,7 +61,7 @@ const developer = {
 
 **Dev Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,vscode,figma,androidstudio" />
 
 </div>
 
