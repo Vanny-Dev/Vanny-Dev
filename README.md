@@ -23,9 +23,9 @@
 ### 🌟 Who Am I?
 ```javascript
 const developer = {
-    name: "YourName",
+    name: "Jovanny De Leon",
     role: "Full Stack Developer",
-    code: ["JavaScript", "Python", "Java"],
+    code: ["JavaScript", "Python", "C++", "PHP"],
     focus: "Building Amazing Things",
     challenge: "Being awesome every day",
     funFact: "I debug with console.log 🐛"
@@ -33,8 +33,8 @@ const developer = {
 ```
 
 🎮 **Current Quest:** Building scalable web apps  
-🌍 **Location:** Your City, Country  
-📚 **Learning:** AI/ML & Cloud Architecture  
+🌍 **Location:** Naga City, Philippines 
+📚 **Learning:** Web Development & Cyber Security
 ⚡ **Superpower:** Turning coffee into code
 
 </td>
@@ -46,19 +46,19 @@ const developer = {
 
 **Frontend Magic**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,vue,angular,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,js,ts,html,css" />
 
 **Backend Power**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,express,django" />
+<img src="https://skillicons.dev/icons?i=nodejs,python,php,express" />
 
 **Database & Cloud**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,aws,docker" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
 
 **Dev Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,linux" />
+<img src="https://skillicons.dev/icons?i=git,vscode,figma" />
 
 </div>
 
@@ -69,9 +69,9 @@ const developer = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ffc107&text_color=ffffff" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Vanny-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ffc107&text_color=ffffff" />
 
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=ff6b6b&ring=ffc107&fire=ff6b6b&currStreakLabel=ffffff" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=Vanny-Dev&theme=radical&hide_border=true&background=0D1117&stroke=ff6b6b&ring=ffc107&fire=ff6b6b&currStreakLabel=ffffff" />
 
 </div>
 
@@ -144,7 +144,7 @@ const developer = {
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
 </a>
 
-<a href="https://dev.to/yourusername" target="_blank">
+<a href="https://dev.to/Vanny-Dev" target="_blank">
 <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A" />
 </a>
 
