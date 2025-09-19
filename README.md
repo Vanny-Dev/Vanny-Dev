@@ -121,7 +121,6 @@ const developer = {
 - 🌐 Full-stack web applications
 - 🤖 AI-powered solutions  
 - 📱 Mobile-first experiences
-- ☁️ Cloud-native architectures
 
 </td>
 <td width="30%" valign="top">
