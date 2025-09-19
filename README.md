@@ -68,7 +68,7 @@ const developer = {
 <tr>
 <td width="50%" valign="top>
     
-### 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Vanny-Dev&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b6b&icon_color=ffc107&text_color=ffffff" />        
