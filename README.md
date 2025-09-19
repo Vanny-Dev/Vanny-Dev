@@ -149,6 +149,11 @@ const developer = {
 <div align="center">
 
 <!-- Animated Social Links -->
+
+<a href="https://instagram.com/vanny.dev/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" />
+</a>
+
 <a href="https://www.linkedin.com/in/jovanny-de-leon-a48a492b0/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
