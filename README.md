@@ -9,7 +9,7 @@
 
 <!-- Matrix Rain Animation -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hello+World!+I'm+a+passionate+developer;Building+the+future%2C+one+line+at+a+time;Welcome+to+my+digital+realm..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hello+World!+I'm+Vanny-Dev;A+passionate+and+aspiring+to+be+a+Fullstack+Developer..." />
 </div>
 
 ---
