@@ -193,7 +193,7 @@ const developer = {
 
 ### 🎵 Currently Jamming To
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://spotify-github-profile.vercel.app/api/spotify)
+[![Spotify](https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO?si=b42bdd9248894b04)
 
 ---
 
