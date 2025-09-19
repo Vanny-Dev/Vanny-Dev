@@ -70,7 +70,7 @@ const developer = {
 <tr>
 <td width="50%" valign="top>
     
-### 📈 GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
             
