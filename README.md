@@ -80,8 +80,6 @@ const developer = {
     
 </td>
 <td width="50%" valign="top>
-    
-### 📈 GitHub Analytics
 
 <div align="center">
             
