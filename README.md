@@ -18,7 +18,7 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🌟 Who Am I?
 ```javascript
@@ -38,7 +38,7 @@ const developer = {
 ⚡ **Superpower:** Turning coffee into code
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🛠️ Technologies & Tools
 
@@ -64,6 +64,9 @@ const developer = {
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td width="100%" valign="top>
     
@@ -78,7 +81,7 @@ const developer = {
 </div>
     
 </td>
-</tr>
+</tr>    
 </table>
 ---
 
