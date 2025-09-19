@@ -90,14 +90,13 @@ const developer = {
 ### 🚀 Spotlight Projects
 
 <div align="center">
-
+    
 <!-- Project Cards with Animations -->
-<a href="https://for-you-confess.vercel.app/">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanny-Dev&repo=project1&theme=radical&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/Vanny-Dev/confession">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanny-Dev&repo=project1&theme=radical&hide_border=true&bg_color=0d1117" />
 </a>
-
-<a href="https://ccsqrgenerator.vercel.app/">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanny-Dev&repo=project2&theme=radical&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/Vanny-Dev/Student-QR-Generator">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanny-Dev&repo=project2&theme=radical&hide_border=true&bg_color=0d1117" />
 </a>
 
 </div>
