@@ -119,7 +119,7 @@ const developer = {
 
 **🔥 What I'm Building:**
 - 🌐 Full-stack web applications
-- 🤖 AI-powered solutions  
+- 🤖 Discord Bots  
 - 📱 Mobile-first experiences
 
 </td>
