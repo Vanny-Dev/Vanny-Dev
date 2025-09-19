@@ -92,12 +92,12 @@ const developer = {
 <div align="center">
 
 <!-- Project Cards with Animations -->
-<a href="https://github.com/yourusername/project1">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&hide_border=true&bg_color=0d1117" />
+<a href="https://for-you-confess.vercel.app/">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanny-Dev&repo=project1&theme=radical&hide_border=true&bg_color=0d1117" />
 </a>
 
-<a href="https://github.com/yourusername/project2">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&hide_border=true&bg_color=0d1117" />
+<a href="https://ccsqrgenerator.vercel.app/">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanny-Dev&repo=project2&theme=radical&hide_border=true&bg_color=0d1117" />
 </a>
 
 </div>
@@ -115,7 +115,7 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&column=2&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=Vanny-Dev&theme=radical&no-frame=true&column=2&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -127,7 +127,7 @@ const developer = {
 - 💡 Problem solver extraordinaire
 
 **📊 Languages Used:**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanny-Dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="100%" />
 
 </td>
 <td width="30%" valign="top">
@@ -137,11 +137,11 @@ const developer = {
 <div align="center">
 
 <!-- Animated Social Links -->
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
+<a href="https://www.linkedin.com/in/jovanny-de-leon-a48a492b0/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" />
 </a>
 
-<a href="https://twitter.com/yourusername" target="_blank">
+<a href="https://x.com/vanny_dev" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" />
 </a>
 
