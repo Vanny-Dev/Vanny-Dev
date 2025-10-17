@@ -24,7 +24,7 @@
 ```javascript
 const developer = {
     name: "Jovanny De Leon",
-    role: "Full Stack Developer",
+    role: "Frontend Developer",
     code: ["JavaScript", "Python", "C++", "PHP"],
     focus: "Building Amazing Things",
     challenge: "Being awesome every day",
