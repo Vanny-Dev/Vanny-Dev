@@ -1,3 +1,5 @@
+Here's the **merged and enhanced** version of your GitHub profile README with the Qampus project added, MERN stack highlighted, and SEO improvements:
+
 # 🚀 Welcome to My Digital Universe
 
 <div align="center">
@@ -9,14 +11,14 @@
 
 <!-- Matrix Rain Animation -->
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hello+World!+I'm+Vanny-Dev;A+passionate+and+aspiring;To+be+a+Fullstack+Developer..." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=100&lines=Hello+World!+I'm+Vanny-Dev;A+passionate+MERN+Stack+Developer;Building+Qampus+%26+more...;To+be+a+Fullstack+Developer..." />
 </div>
 
 ---
 
 ## 🎯 About Me | 💻 Tech Arsenal | 📊 GitHub Stats
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -24,23 +26,26 @@
 ```javascript
 const developer = {
     name: "Jovanny De Leon",
-    role: "Frontend Developer",
+    role: "MERN Stack Developer",
     code: ["JavaScript", "Python", "C++", "PHP"],
-    focus: "Building Amazing Things",
+    mern: ["MongoDB", "Express.js", "React", "Node.js"],
+    focus: "Building Scalable Web Apps",
+    currentProject: "🚀 Qampus - MERN Application",
     challenge: "Being awesome every day",
     funFact: "I debug with console.log 🐛"
 };
 ```
 
-🎮 **Current Quest:** Building scalable web apps 
+🎮 **Current Quest:** Building Qampus - A full-stack MERN application
 
-🌍 **Location:** Naga City, Philippines 
+🌍 **Location:** San Fernando, Camarines Sur, Philippines
 
-📚 **Learning:** Web Development & Cyber Security
+📚 **Learning:** Advanced MERN patterns & Cyber Security
 
-⚡ **Superpower:** Not the coffee but her gaze
+⚡ **Superpower:** Turning coffee into production-ready code
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🛠️ Technologies & Tools
@@ -51,13 +56,13 @@ const developer = {
 <br/>
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,js,ts,html,css" />
 
-**Backend Power**
+**Backend Power (MERN Core)**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,python,php,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 
-**Database & Cloud**
+**Other Backend**
 <br/>
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql" />
+<img src="https://skillicons.dev/icons?i=python,php,mysql,postgresql" />
 
 **Dev Tools**
 <br/>
@@ -66,10 +71,10 @@ const developer = {
 </div>
 
 </td>
-
 </tr>
+
 <tr>
-<td width="50%" valign="top>
+<td width="50%" valign="top">
     
 ### 📈 GitHub Analytics
 
@@ -82,7 +87,7 @@ const developer = {
 
 </td>
 
-<td width="50%" valign="top>
+<td width="50%" valign="top">
 
 <div align="center">    
 
@@ -99,7 +104,7 @@ const developer = {
 
 ## 🎨 Featured Projects | 🏆 Achievements | 🤝 Let's Connect
 
-<table>
+<table width="100%">
 <tr>
 <td width="40%" valign="top">
 
@@ -108,21 +113,35 @@ const developer = {
 <div align="center">
     
 <!-- Project Cards with Animations -->
-<a href="https://github.com/Vanny-Dev/confession">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanny-Dev&repo=confession&theme=radical&hide_border=true&bg_color=0d1117" />
+<a href="https://github.com/Vanny-Dev/Qampus">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanny-Dev&repo=Qampus&theme=radical&hide_border=true&bg_color=0d1117" />
 </a>
-<a href="https://github.com/Vanny-Dev/Student-QR-Generator">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanny-Dev&repo=Student-QR-Generator&theme=radical&hide_border=true&bg_color=0d1117" />
+
+<a href="https://github.com/Vanny-Dev/ArtAppPortfolioSemester">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanny-Dev&repo=ArtAppPortfolioSemester&theme=radical&hide_border=true&bg_color=0d1117" />
+</a>
+
+<a href="https://github.com/Vanny-Dev/Telegram_Bot">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vanny-Dev&repo=Telegram_Bot&theme=radical&hide_border=true&bg_color=0d1117" />
 </a>
 
 </div>
 
 **🔥 What I'm Building:**
+- 🎓 **Qampus** - MERN stack campus platform
 - 🌐 Full-stack web applications
-- 🤖 Discord Bots  
+- 🤖 Telegram & Discord Bots
 - 📱 Mobile-first experiences
 
+**🟢 Active Repositories:**
+| Repo | Status | Tech |
+|------|--------|------|
+| Qampus | 🟢 Public | MERN Stack |
+| OurSpace | 🔵 Private | JavaScript |
+| ArtAppPortfolioSemester | 🟢 Public | HTML |
+
 </td>
+
 <td width="30%" valign="top">
 
 ### 🏆 Achievements Unlocked
@@ -134,16 +153,17 @@ const developer = {
 </div>
 
 **🎖️ Milestones:**
-- ⭐ 500+ GitHub stars earned
-- 🔥 50+ day coding streak
-- 🚀 10+ projects deployed
-- 👥 Open source contributor
+- 🎓 MERN Stack Developer in training
+- 🔥 228+ contributions last year
+- 🚀 6+ public repositories
+- 👥 Growing GitHub community
 - 💡 Problem solver extraordinaire
 
 **📊 Languages Used:**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanny-Dev&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" width="100%" />
 
 </td>
+
 <td width="30%" valign="top">
 
 ### 🌐 Connect With Me
@@ -179,8 +199,9 @@ const developer = {
 </div>
 
 **💬 Let's Talk About:**
-- 🚀 Innovative tech solutions
-- 🌟 Collaboration opportunities  
+- 🚀 MERN stack development
+- 🎓 Qampus & innovative tech solutions
+- 🌟 Collaboration opportunities
 - 📚 Knowledge sharing
 - ☕ Coffee and coding
 
@@ -193,6 +214,19 @@ const developer = {
 </td>
 </tr>
 </table>
+
+---
+
+## 📁 All Public Repositories
+
+| Repository | Description | Tech Stack |
+|------------|-------------|------------|
+| **[Qampus](https://github.com/Vanny-Dev/Qampus)** | 🎓 Campus platform (MERN Stack) | MongoDB, Express, React, Node.js |
+| **[ArtAppPortfolioSemester](https://github.com/Vanny-Dev/ArtAppPortfolioSemester)** | Art portfolio project | HTML |
+| **[Telegram_Bot](https://github.com/Vanny-Dev/Telegram_Bot)** | Telegram bot automation | JavaScript |
+| **[stopwatch](https://github.com/Vanny-Dev/stopwatch)** | Simple stopwatch app | JavaScript |
+| **[beshy](https://github.com/Vanny-Dev/beshy)** | CSS styling project | CSS |
+| **[sayOnMyWall](https://github.com/Vanny-Dev/sayOnMyWall)** | Wall messaging app | HTML |
 
 ---
 
